@@ -1,14 +1,12 @@
-# 🎨 syncpad | Hand-drawn look & feel • Collaborative • Secure
+# 🎨 SyncPad | Hand-drawn look & feel • Collaborative • Secure
 
----
-
-**syncpad** is a web-based collaborative whiteboard where multiple users can draw, edit, and brainstorm together in real time. Whether solo or in a group session, the app offers a smooth, intuitive canvas experience with real-time sync, shape tools, editable text, and privacy-focused end-to-end encryption — all without needing an account.
+**SyncPad** is a web-based collaborative whiteboard where multiple users can draw, edit, and brainstorm together in real time. Whether solo or in a group session, the app offers a smooth, intuitive canvas experience with real-time sync, shape tools, editable text, and privacy-focused end-to-end encryption — all without needing an account.
 
 ## Application View:
 
 ![](/public/home.png)
 
-## Application Live Link: [syncpad](https://syncpad.debjyoti.co.in/)
+## Application Live Link: [SyncPad](https://SyncPad.debjyoti.co.in/)
 
 ## Application Demo Link: [YouTube](https://www.youtube.com/watch?v=HPJaZkEBl5o)
 
@@ -30,15 +28,15 @@
 
 ---
 
-### 🔐 **Privacy & End-to-End Encryption (E2EE)** in syncpad
+### 🔐 **Privacy & End-to-End Encryption (E2EE)** in SyncPad
 
-syncpad is built with **privacy by design** to ensure that no sensitive drawing data can be accessed by anyone other than the intended participants.
+SyncPad is built with **privacy by design** to ensure that no sensitive drawing data can be accessed by anyone other than the intended participants.
 
 ### 🔑 **How It Works**
 
 - When a user creates or joins a room, the app generates a link like:
   ```
-  https://syncpad.xyz#room=abc123,xyz456
+  https://SyncPad.xyz#room=abc123,xyz456
   ```
   - `abc123`: Unique room ID (used by the server)
   - `xyz456`: Encryption key (used **only** on the client)
@@ -59,7 +57,7 @@ syncpad is built with **privacy by design** to ensure that no sensitive drawing 
 
 - No one — not even the server — can read what’s drawn in a room without the key.
 - Ensures **confidentiality** for private brainstorming, teaching, or design sessions.
-- Works like **syncpad's E2EE rooms**, but tailored for your collaborative drawing logic.
+- Works like **SyncPad's E2EE rooms**, but tailored for your collaborative drawing logic.
 
 ---
 
@@ -88,7 +86,7 @@ syncpad is built with **privacy by design** to ensure that no sensitive drawing 
 
 ### 🌍 Open Source & Contributions
 
-I want **syncpad** to be open source so that other students and developers can explore and learn from it.  
+I want **SyncPad** to be open source so that other students and developers can explore and learn from it.  
 If you'd like to contribute—whether it's improving the UI, optimizing performance, or adding new features—feel free to open an issue or submit a pull request!
 
 ---
