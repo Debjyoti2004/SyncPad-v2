@@ -4,7 +4,13 @@
 
 **syncpad** is a web-based collaborative whiteboard where multiple users can draw, edit, and brainstorm together in real time. Whether solo or in a group session, the app offers a smooth, intuitive canvas experience with real-time sync, shape tools, editable text, and privacy-focused end-to-end encryption — all without needing an account.
 
----
+## Application View:
+
+![](/public/home.png)
+
+## Application Live Link: [syncpad](https://syncpad.debjyoti.co.in/)
+
+## Application Demo Link: [YouTube](https://www.youtube.com/watch?v=HPJaZkEBl5o)
 
 ### ✅ Core Features
 
